@@ -1,0 +1,34 @@
+\documentclass{article}
+\usepackage{tabularx}
+
+\usepackage{Sweave}
+\begin{document}
+\input{CheatSheet-concordance}
+\renewcommand{\arraystretch}{1.5}
+
+
+\begin{table}
+\caption{Simplified Time Value of Money Equations}
+\centering
+\begin{tabular}[htb]{l|l}
+Factor Notation & Equation\\
+\hline
+(F|P,i,N) & $F=P(1+i)^N$\\
+(P|F,i,N) & $P=\frac{F}{(1+i)^N}$\\
+(F|A,i,N) & $F=A\left(\frac{(1+i)^{N}-1}{i}\right)$\\
+\hline
+(A|F,i,N) & $A=F\left(\frac{i}{(1+i)^{N}-1}\right)$\\
+(P|A,i,N) & $P=A\left(\frac{(1+i)^{N}-1}{i(1+i)^{N}}\right)$\\
+(A|P,i,N) & $A=P\left(\frac{i(1+i)^{N}}{(1+i)^{N}-1}\right)$\\
+\hline
+(P|G,i,N) &$P=G\left(\frac{(1+i)^{N}-iN-1}{i^{2}(1+i)^{N}}\right)$\\
+\hline
+(P|$A_1$,i,g,N) & $P=A_{1}\left(\frac{1-(1+g)^{N}(1+i)^{-N}}{i-g}\right)$ \\
+ ~&  or $P=A_{1}\left(\frac{N}{1+i}\right)\,(if : i = g)$ \\
+
+
+\end{tabular}
+\end{table}
+
+
+\end{document}
