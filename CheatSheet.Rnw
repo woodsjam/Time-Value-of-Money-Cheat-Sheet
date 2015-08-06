@@ -30,4 +30,33 @@ Factor Notation & Equation\\
 \end{table}
 
 
+\begin{table}
+\caption{Accounting Ratios}
+\centering
+\begin{tabular}[htb]{l|c}
+Ratio & Definition\\
+\hline
+Debt Ratio & $\frac{\mathrm{Total ~ Liabilities}}{\mathrm{Total ~ Assets}}$ \\
+
+Times Interest Earned Ratio & $ \frac{\mathrm{Earnings~before~ Interest ~and ~Taxes}}{\mathrm{Interest ~Expense}} $\\
+
+Current Ratio  & $ \frac{\mathrm{Current ~Assets}}{\mathrm{Current~Liabilities}}$\\
+
+Quick Ratio & $ \frac{\mathrm{Current ~Assets}- \mathrm{Inventory}}{\mathrm{Current~Liabilities}}$\\
+
+Inventory Turnover &  $\frac{\mathrm{Total~ Revenue}}{\mathrm{Average ~inventory ~balance}}$\\
+Total Asset Turnover &  $\frac{\mathrm{Total~Revenue}}{\mathrm{Total~assets}}$\\
+
+Accounts Receivable Turnover&  $\frac{\mathrm{Accounts ~Receivable}}{\mathrm{Average~daily~sales}}$\\
+
+Profit Margin on Sales&  $\frac{\mathrm{Net~Income}- \mathrm{Preferred~dividends}}{\mathrm{Total Revenue}}$\\
+
+Return on Total Assets&  $\frac{\mathrm{Earnings~before~interest~and ~taxes}}{\mathrm{Total~Assets}}$\\
+
+Return on Common Equity&  $\frac{\mathrm{Net ~Income}-\mathrm{Preferred~Dividends}}{\mathrm{Common~Stock}+\mathrm{Retained~Earnings}+\mathrm{Capital~Surplus}}$\\
+
+Price/Earnings Ratio&  $\frac{\mathrm{Price~per~share}}{\mathrm{Earnings per share}}$\\
+\end{tabular}
+\end{table}
+
 \end{document}
